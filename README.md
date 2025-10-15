@@ -1,17 +1,18 @@
+<<<<<<< HEAD
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/wildvine)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/wildvine?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/wildvine?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Vahinic10/wildhaven)
+  ![GitHub stars](https://img.shields.io/github/stars/Vahinic10/wildhaven?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Vahinic10/wildhaven?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vahinic10_?style=social)](https://twitter.com/intent/follow?screen_name=Vahinic10)
   [![YouTube Video Views](https://img.shields.io/youtube/views/6Dj881BJ5kw?style=social)](https://youtu.be/6Dj881BJ5kw)
 
   <br />
   <br />
 
-  <h2 align="center">Wildvine - Charity website</h2>
+  <h2 align="center">Wildhaven - Charity website</h2>
 
-  Wildvine is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Wildhaven is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/wildvine/"><strong>➥ Live Demo</strong></a>
 
@@ -31,24 +32,27 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Wildvine** locally, run this command on your git bash:
+To run **Wildhaven** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/wildvine.git
+sudo git clone https://github.com/Vahinic10/wildhaven.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/wildvine.git
+git clone https://github.com/Vahinic10/wildhaven.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/Vahinic10).
 
 ### License
 
 This project is **free to use** and does not contains any license.
+=======
+# wildhaven1
+>>>>>>> 8b0e53ac92926dcad387bdf606dd558c77e5e861
